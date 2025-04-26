@@ -4,7 +4,7 @@
 ## 使用方法
 ### 1.gitクローンする 
 ```bash
-$ git clone git@github.com:HarukiInoue1/ts-practice.git
+$ git clone https://github.com/HarukiInoue1/ts-practice.git
 ```
 
 ### 2.全パッケージをインストール
